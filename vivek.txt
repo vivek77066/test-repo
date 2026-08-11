@@ -1,0 +1,10 @@
+hello i am vivek jethava 
+Name: Rahul Sharma
+Age: 24
+City: Ahmedabad
+Country: India
+Favorite Color: Blue
+Favorite Food: Pizza
+Hobby: Reading
+Programming Language: Python
+GitHub Username: rahul123
