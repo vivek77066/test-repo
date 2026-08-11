@@ -1,10 +1,10 @@
-hello i am vivek jethava 
-Name: Rahul Sharma
-Age: 24
+hello i am utsav kaneriya 
+Name: utsav kaneriya
+Age: 22
 City: Ahmedabad
 Country: India
 Favorite Color: Blue
 Favorite Food: Pizza
 Hobby: Reading
-Programming Language: Python
-GitHub Username: rahul123
+Programming Language: DOTNET
+GitHub Username: Utsav123
